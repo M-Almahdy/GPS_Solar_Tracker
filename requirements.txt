@@ -1,0 +1,11 @@
+pyserial==3.5
+schedule==1.1.0
+geopy==2.3.0
+Flask==2.3.2
+Flask-CORS==4.0.0
+python-dateutil==2.8.2
+psutil==5.9.5
+Adafruit-PCA9685==1.0.1
+Adafruit-GPIO==1.0.3
+RPi.GPIO==0.7.1
+pigpio==1.78
